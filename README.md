@@ -2,4 +2,4 @@
 demo project
 bhumika g
 bhumikagarikapati@gmail.com
-IT
+it
